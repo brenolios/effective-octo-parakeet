@@ -7,7 +7,7 @@ on:
 env:
   name: "Catalina"
   comment: "Catalina IMG"
-  url: https://drive.google.com/uc?id=1bAy9IbJ511YyhSjwRgo8-ekfoPmbjLDu&export=download
+  url: https://doc-10-9g-docs.googleusercontent.com/docs/securesc/dp6dcr25v4sckghvkfjd8l66iuv2u16p/oi3ak1u246mvgjevtndu8icthej9gedn/1602825225000/07369624606270464871/16220320780236459012Z/1bAy9IbJ511YyhSjwRgo8-ekfoPmbjLDu?e=download
   file_name: "Catalina IMG"
   piece_size: 23 # Check the README.md for recommended piece size
       
